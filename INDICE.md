@@ -36,6 +36,8 @@ Pasta de cada perfume em `perfumes/` e o nome completo. Links diretos no formato
 | [BYR-MOJG](perfumes/BYR-MOJG) | Byredo Mojave Ghost | 3 |
 | [FAV-LIQB](perfumes/FAV-LIQB) | French Avenue Liquid Brun | 3 |
 | [FDM-OPIN](perfumes/FDM-OPIN) | Fabbrica Della Musa Opera Infernal Extrait | 3 |
+| [FER-BLAC](perfumes/FER-BLAC) | Ferrari Black | 3 |
+| [FER-RED](perfumes/FER-RED) | Scuderia Ferrari Racing Red | 3 |
 | [GRI-CHAN](perfumes/GRI-CHAN) | Gritti Chantilly EDP | 3 |
 | [GRI-POA](perfumes/GRI-POA) | Gritti Pomelo Assoluto | 3 |
 | [GRI-POS](perfumes/GRI-POS) | Gritti Pomelo Sorrento | 3 |
