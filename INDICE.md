@@ -120,6 +120,7 @@ Pasta de cada perfume em `perfumes/` e o nome completo. Links diretos no formato
 | [MPR-VAP-EXT](perfumes/MPR-VAP-EXT) | Matière Première Vanilla Powder Extrait de Parfum | 3 |
 | [MVI-GRTY](perfumes/MVI-GRTY) | Maison Viegas Grand Tygar | 3 |
 | [MVI-HEAV](perfumes/MVI-HEAV) | Maison Viegas Heaven | 3 |
+| [MVI-JAZZ](perfumes/MVI-JAZZ) | Maison Viegas Jazz Master | 3 |
 | [NIS-ANI](perfumes/NIS-ANI) | Nishane Ani | 3 |
 | [NIS-FAYF](perfumes/NIS-FAYF) | Nishane Fan Your Flames | 3 |
 | [NIS-HACI](perfumes/NIS-HACI) | Nishane Hacivat | 3 |
